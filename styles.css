@@ -1,0 +1,22 @@
+.even,
+.odd {
+    font-family:"Verdana", "Geneva", "Tahoma", sans-serif;
+    font-size: 22px;
+    text-decoration: none;
+    color:blue
+}
+.even {
+    background-color: lightblue;
+}
+.odd {
+    background-color: lightgreen;
+}
+
+.headers {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.recipe {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
